@@ -9,7 +9,7 @@ installation instructions
 
 ![](https://github.com/ShalevL/greatQuotesFinal/blob/main/1.png)
 
-![](https://github.com/ShalevL/greatQuotesFinal/blob/main/1.png)
+![](https://github.com/ShalevL/greatQuotesFinal/blob/main/2.png)
 
 ![](https://github.com/ShalevL/greatQuotesFinal/blob/main/3.png)
 
